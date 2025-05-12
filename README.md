@@ -79,16 +79,11 @@ Make sure all `BSP` and `SYSTEM` folders are correctly included in your project.
 
 ---
 
-## 📸 Screenshots (Optional)
-> Add photos of LCD display, hardware setup, or UART commands in action.
-
----
-
 ## 🧠 Author
 
-**Developed by:** *[Hasan Syed Tabeh]*  
+**Developed by:** Hasan Syed Tabeh 
 **For:** Midterm Embedded Systems Project  
-**Supervised by:** *[Mr.Li Yunrui]*
+**Supervised by:** Mr.Li Yunrui
 
 ---
 
